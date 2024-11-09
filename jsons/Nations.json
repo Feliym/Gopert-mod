@@ -2,7 +2,7 @@
 	{
 		"name": "Чужаки",
 		"leaderName": "#####",
-		"adjective": [""],
+		"adjective": ["Snow"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
